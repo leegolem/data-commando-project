@@ -40,6 +40,7 @@ git add notebooks/본인폴더/
 
 
 # 프로젝트 파일 구성
+```
 DATA-COMMANDO-PROJECT/
 ├─ main/
 │  └─ h&m_dataset/        # 공동 데이터 (원본, 수정 금지)
@@ -54,7 +55,7 @@ DATA-COMMANDO-PROJECT/
 ├─ uv.lock
 ├─ README.md
 └─ .gitignore
-
+```
 ## 폴더 역할 정리
 
 - main/
