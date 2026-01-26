@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# H&M raw datasets (do not commit)
+main/h&m_dataset/*.csv
