@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# --- Project rules ---
+# H&M raw datasets (do not commit)
+
+
+# Member workspace (generated data / trash)
+notebooks/**/trash/
